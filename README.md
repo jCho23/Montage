@@ -1,14 +1,14 @@
 # Montage
 Automation Test Scripts for Montage
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
